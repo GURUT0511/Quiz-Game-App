@@ -48,6 +48,3 @@ This project is a simple demo focused on practicing:
 
 ## Contributing
 Feel free to open issues or create PRs to add features, improve styling, or restructure the quiz data.
-
-## License
-Add a license file if you want to make the project open source (e.g., MIT).
